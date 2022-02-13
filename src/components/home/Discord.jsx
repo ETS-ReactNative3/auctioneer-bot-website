@@ -31,7 +31,7 @@ const Discord = () => {
                                     <div className="mx-2">
                                         <a target="_blank" rel="noreferrer"
                                             className="w-full block text-white bg-purple-700 border-0 px-6 focus:outline-none focus:bg-purple-600 hover:bg-purple-600 rounded h-12 content-center flex justify-center"
-                                            href="https://discordapp.com/oauth2/authorize?&client_id=492451055632777228&scope=bot&permissions=0"
+                                            href="https://discord.com/api/oauth2/authorize?client_id=492451055632777228&permissions=0&scope=bot%20applications.commands"
                                         >
                                             <i className="fas fa-robot fa-lg mr-2 my-auto"></i>
                                             <p className="my-auto">Add to Discord</p>
